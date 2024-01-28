@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.cv-container {
+    display: flex;
+    justify-content: center;
+    background-color: #D4CAA3;
+    height: 100vh;
+}
+.cv-container img {
+    max-width: 100%;
+    width: 50vw;
+    height: 100vh;
+}
